@@ -13,6 +13,4 @@ const favColor = prompt('qual è il tuo colore preferito?')
 
 const output = name + surname + favColor + '23'
 
-console.log(output)
-
 document.getElementById('password').innerHTML = output
